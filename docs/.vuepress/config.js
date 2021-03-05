@@ -70,12 +70,78 @@ module.exports = {
         sidebarDepth: 2,
         children: [
           [
-            "javascript篇/01.javascript编码技巧.md",
+            "javascript/01.javascript编码技巧.md",
             "01.javascript编码技巧",
           ],
           [
-            "javascript篇/02.es6技巧.md",
+            "javascript/02.es6技巧.md",
             "02.es6技巧",
+          ],
+        ],
+      },
+      {
+        title: "CSS篇",
+        collapsable: true,
+        sidebarDepth: 2,
+        children: [
+          [
+            "CSS/01.javascript编码技巧.md",
+            "01.javascript编码技巧",
+          ],
+          [
+            "CSS/02.es6技巧.md",
+            "02.es6技巧",
+          ],
+        ],
+      },
+      {
+        title: "剑指offter-JavaScript题解",
+        collapsable: true,
+        sidebarDepth:2,
+        children: [
+          [
+            "sword-offer-by-JavaScript/01.链表-3从尾到头打印链表.md",
+            "01.链表-3从尾到头打印链表",
+          ], 
+          [
+            "sword-offer-by-JavaScript/01.链表-14链表中倒数第k个结点.md",
+            "01.链表-14链表中倒数第k个结点",
+          ], 
+          [
+            "sword-offer-by-JavaScript/01.链表-15反转链表.md",
+            "01.链表-15反转链表",
+          ], 
+          [
+            "sword-offer-by-JavaScript/01.链表-16合并两个排序的链表.md",
+            "01.链表-16合并两个排序的链表",
+          ], 
+          [
+            "sword-offer-by-JavaScript/01.链表-25复杂链表的复制.md",
+            "01.链表-25复杂链表的复制",
+          ], 
+          [
+            "sword-offer-by-JavaScript/01.链表-36两个链表的第一个公共结点.md",
+            "01.链表-36两个链表的第一个公共结点",
+          ],
+          [
+            "sword-offer-by-JavaScript/01.链表-55链表中环的入口结点.md",
+            "01.链表-55链表中环的入口结点",
+          ], 
+          [
+            "sword-offer-by-JavaScript/01.链表-56删除链表中重复的结点.md",
+            "01.链表-56删除链表中重复的结点",
+          ],
+          [
+            "sword-offer-by-JavaScript/06.栈-5用两个栈实现队列.md",
+            "06.栈-5用两个栈实现队列",
+          ],
+          [
+            "sword-offer-by-JavaScript/06.栈-20包含min函数的栈.md",
+            "06.栈-20包含min函数的栈",
+          ],
+          [
+            "sword-offer-by-JavaScript/06.栈-21栈的压入、弹出序列.md",
+            "06.栈-21栈的压入、弹出序列",
           ],
         ],
       },
