@@ -85,13 +85,10 @@ module.exports = {
         sidebarDepth: 2,
         children: [
           [
-            "CSS/01.javascript编码技巧.md",
-            "01.javascript编码技巧",
+            "CSS/01.基础.md",
+            "01.基础",
           ],
-          [
-            "CSS/02.es6技巧.md",
-            "02.es6技巧",
-          ],
+          
         ],
       },
       {
