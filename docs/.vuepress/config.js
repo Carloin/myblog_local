@@ -70,12 +70,16 @@ module.exports = {
         sidebarDepth: 2,
         children: [
           [
-            "javascript/01.javascript编码技巧.md",
-            "01.javascript编码技巧",
+            "javascript/01.javascript编码技巧(一).md",
+            "01.javascript编码技巧(一)",
           ],
           [
-            "javascript/02.es6技巧.md",
-            "02.es6技巧",
+            "javascript/02.javascript编码技巧(二).md",
+            "02.javascript编码技巧(二)",
+          ],
+          [
+            "javascript/03.es6技巧.md",
+            "03.es6技巧",
           ],
         ],
       },
@@ -361,6 +365,17 @@ module.exports = {
           ],
         ],
       },
+      {
+        title: "HTML篇",
+        collapsable: true,
+        sidebarDepth:2,
+        children: [
+          [
+            "html/0.1html+http总结.md",
+            "0.1html+http总结",
+          ],
+        ]
+      }
     ],
   },
   plugins: [
