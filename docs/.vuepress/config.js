@@ -81,6 +81,10 @@ module.exports = {
             "javascript/03.es6技巧.md",
             "03.es6技巧",
           ],
+          [
+            "javascript/04.闭包究竟是什么.md",
+            "04.闭包究竟是什么",
+          ],
         ],
       },
       {
