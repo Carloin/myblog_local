@@ -85,6 +85,30 @@ module.exports = {
             "javascript/04.闭包究竟是什么.md",
             "04.闭包究竟是什么",
           ],
+          [
+            "javascript/05.原生JS封装_new函数，实现new关键字的功能.md",
+            "05.原生JS封装_new函数，实现new关键字的功能",
+          ],
+          [
+            "javascript/06.通俗易懂了解函数的防抖和节流.md",
+            "06.通俗易懂了解函数的防抖和节流",
+          ],
+          [
+            "javascript/07.javaScript中this到底指向谁.md",
+            "07.javaScript中this到底指向谁",
+          ],
+          [
+            "javascript/08.JavaScript中继承的多种方式和优缺点.md",
+            "08.JavaScript中继承的多种方式和优缺点",
+          ], 
+          [
+            "javascript/09.原生JS实现call,apply,bind函数.md",
+            "09.原生JS实现call,apply,bind函数",
+          ],
+          [
+            "javascript/10.JavaScript专题之数组去重.md",
+            "10.JavaScript专题之数组去重",
+          ],
         ],
       },
       {
