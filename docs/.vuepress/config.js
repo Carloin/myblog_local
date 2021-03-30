@@ -65,6 +65,18 @@ module.exports = {
         path: "/about/",
       },
       {
+        title: "产品",
+        collapsable: true,
+        sidebarDepth: 2,
+        children: [
+          [
+            "product/01.小佳饮食健康健康管理小程序.md",
+            "01.小佳饮食健康健康管理小程序",
+          ],
+          
+        ],
+      },
+      {
         title: "JavaScript篇",
         collapsable: true,
         sidebarDepth: 2,
