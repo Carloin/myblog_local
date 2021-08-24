@@ -77,7 +77,7 @@ module.exports = {
         ],
       },
       {
-        title: "JavaScript篇",
+        title: "JavaScript",
         collapsable: true,
         sidebarDepth: 2,
         children: [
@@ -121,6 +121,14 @@ module.exports = {
             "javascript/10.JavaScript专题之数组去重.md",
             "10.JavaScript专题之数组去重",
           ],
+          [
+            "javascript/11.有趣的笔试题.md",
+            "11.有趣的笔试题",
+          ],
+          [
+            "javascript/12.零碎知识点.md",
+            "12.零碎知识点",
+          ],
         ],
       },
       {
@@ -129,8 +137,8 @@ module.exports = {
         sidebarDepth: 2,
         children: [
           [
-            "CSS/01.基础.md",
-            "01.基础",
+            "CSS/0.1关于float的使用.md",
+            "0.1关于float的使用",
           ],
           
         ],
