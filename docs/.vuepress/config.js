@@ -413,6 +413,7 @@ module.exports = {
           ],
         ],
       },
+      
       {
         title: "HTML篇",
         collapsable: true,
@@ -423,7 +424,18 @@ module.exports = {
             "0.1html+http总结",
           ],
         ]
-      }
+      },
+      {
+        title: "TypeScript篇",
+        collapsable: true,
+        sidebarDepth:2,
+        children: [
+          [
+            "typescripts/0.1基础.md",
+            "0.1基础",
+          ],
+        ]
+      },
     ],
   },
   plugins: [
