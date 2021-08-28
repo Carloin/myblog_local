@@ -445,6 +445,16 @@ module.exports = {
             "0.1简介",
           ],
         ]
+      },{
+        title: "GitHub",
+        collapsable: true,
+        sidebarDepth:2,
+        children: [
+          [
+            "github/0.1上传失败.md",
+            "0.1上传失败",
+          ],
+        ]
       },
     ],
   },
