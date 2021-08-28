@@ -435,6 +435,16 @@ module.exports = {
             "0.1基础",
           ],
         ]
+      },{
+        title: "Web自动化测试selenium",
+        collapsable: true,
+        sidebarDepth:2,
+        children: [
+          [
+            "selenium/0.1简介.md",
+            "0.1简介",
+          ],
+        ]
       },
     ],
   },
