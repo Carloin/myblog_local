@@ -459,6 +459,10 @@ module.exports = {
             "github/0.1上传失败.md",
             "0.1上传失败",
           ],
+          [
+            "github/02关于token问题.md",
+            "02关于token问题",
+          ],
         ]
       },{
         title: "React",
