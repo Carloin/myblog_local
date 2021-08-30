@@ -436,14 +436,19 @@ module.exports = {
           ],
         ]
       },{
-        title: "Web自动化测试selenium",
+        title: "Web自动化测试",
         collapsable: true,
         sidebarDepth:2,
         children: [
           [
-            "selenium/0.1简介.md",
-            "0.1简介",
+            "web_auto/0.1selenium.md",
+            "0.1selenium",
           ],
+          [
+            "web_auto/0.2jest.md",
+            "0.2jest",
+          ],
+         
         ]
       },{
         title: "GitHub",
@@ -453,6 +458,16 @@ module.exports = {
           [
             "github/0.1上传失败.md",
             "0.1上传失败",
+          ],
+        ]
+      },{
+        title: "React",
+        collapsable: true,
+        sidebarDepth:2,
+        children: [
+          [
+            "react/0.1React-redux.md",
+            "0.1React-redux",
           ],
         ]
       },
