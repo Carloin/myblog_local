@@ -79,7 +79,7 @@ module.exports = {
       {
         title: "JavaScript",
         collapsable: true,
-        sidebarDepth: 2,
+        sidebarDepth: 12,
         children: [
           [
             "javascript/01.javascript编码技巧(一).md",
@@ -441,11 +441,11 @@ module.exports = {
         sidebarDepth:2,
         children: [
           [
-            "web_auto/0.1selenium.md",
+            "webauto/0.1selenium.md",
             "0.1selenium",
           ],
           [
-            "web_auto/0.2jest.md",
+            "webauto/0.2jest.md",
             "0.2jest",
           ],
          
@@ -472,6 +472,10 @@ module.exports = {
           [
             "react/0.1React-redux.md",
             "0.1React-redux",
+          ],
+          [
+            "react/0.2React-hooks.md",
+            "0.2React-hooks",
           ],
         ]
       },
