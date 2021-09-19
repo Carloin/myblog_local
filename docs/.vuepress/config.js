@@ -477,6 +477,10 @@ module.exports = {
             "react/0.2React-hooks.md",
             "0.2React-hooks",
           ],
+          [
+            "react/0.3React-router.md",
+            "0.3React-router",
+          ],
         ]
       },
     ],
