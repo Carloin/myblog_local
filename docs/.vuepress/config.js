@@ -82,53 +82,70 @@ module.exports = {
         sidebarDepth: 12,
         children: [
           [
-            "javascript/01.javascript编码技巧(一).md",
-            "01.javascript编码技巧(一)",
+            "javascript/01.闭包究竟是什么.md",
+            "01.闭包究竟是什么",
           ],
           [
-            "javascript/02.javascript编码技巧(二).md",
-            "02.javascript编码技巧(二)",
+            "javascript/02.原生JS封装_new函数，实现new关键字的功能.md",
+            "02.原生JS封装_new函数，实现new关键字的功能",
           ],
           [
-            "javascript/03.es6技巧.md",
-            "03.es6技巧",
+            "javascript/03.通俗易懂了解函数的防抖和节流.md",
+            "03.通俗易懂了解函数的防抖和节流",
           ],
           [
-            "javascript/04.闭包究竟是什么.md",
-            "04.闭包究竟是什么",
+            "javascript/04.javaScript中this到底指向谁.md",
+            "04.javaScript中this到底指向谁",
           ],
           [
-            "javascript/05.原生JS封装_new函数，实现new关键字的功能.md",
-            "05.原生JS封装_new函数，实现new关键字的功能",
-          ],
-          [
-            "javascript/06.通俗易懂了解函数的防抖和节流.md",
-            "06.通俗易懂了解函数的防抖和节流",
-          ],
-          [
-            "javascript/07.javaScript中this到底指向谁.md",
-            "07.javaScript中this到底指向谁",
-          ],
-          [
-            "javascript/08.JavaScript中继承的多种方式和优缺点.md",
-            "08.JavaScript中继承的多种方式和优缺点",
+            "javascript/05.JavaScript中继承的多种方式和优缺点.md",
+            "05.JavaScript中继承的多种方式和优缺点",
           ], 
           [
-            "javascript/09.原生JS实现call,apply,bind函数.md",
-            "09.原生JS实现call,apply,bind函数",
+            "javascript/06.原生JS实现call,apply,bind函数.md",
+            "06.原生JS实现call,apply,bind函数",
           ],
           [
-            "javascript/10.JavaScript专题之数组去重.md",
-            "10.JavaScript专题之数组去重",
+            "javascript/07.JavaScript专题之数组去重.md",
+            "07.JavaScript专题之数组去重",
           ],
           [
-            "javascript/11.有趣的笔试题.md",
-            "11.有趣的笔试题",
+            "javascript/08.零碎知识点.md",
+            "08.零碎知识点",
           ],
           [
-            "javascript/12.零碎知识点.md",
-            "12.零碎知识点",
+            "javascript/09.关于对象Object.md",
+            "09.关于对象Object",
           ],
+          [
+            "javascript/10.关于符号操作.md",
+            "10.关于符号操作",
+          ],
+          [
+            "javascript/11.关于函数function.md",
+            "11.关于函数function",
+          ],
+          [
+            "javascript/12.关于类class.md",
+            "12.关于类class",
+          ],
+          [
+            "javascript/13.关于数字Number.md",
+            "13.关于数字Number",
+          ],
+          [
+            "javascript/14.关于数组Array.md",
+            "14.关于数组Array",
+          ],
+          [
+            "javascript/15.关于字符串String.md",
+            "15.关于字符串String",
+          ],
+          [
+            "javascript/16.关于if-else.md",
+            "16.关于if-else",
+          ],
+          
         ],
       },
       {
