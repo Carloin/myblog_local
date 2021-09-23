@@ -157,7 +157,10 @@ module.exports = {
             "CSS/0.1关于float的使用.md",
             "0.1关于float的使用",
           ],
-          
+          [
+            "CSS/0.2flex布局.md",
+            "0.2flex布局",
+          ],
         ],
       },
       {
